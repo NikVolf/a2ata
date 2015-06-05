@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\bin\Debug\A2ATA.Logics.dll
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\bin\Debug\A2ATA.Logics.pdb
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\obj\Debug\A2ATA.Logics.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\obj\Debug\A2ATA.Logics.dll
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\obj\Debug\A2ATA.Logics.pdb
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\bin\Debug\Ninject.dll
+C:\Users\admin\Documents\git\A2ATA\A2ATA.Logics\bin\Debug\Ninject.xml
